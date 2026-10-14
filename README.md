@@ -1,1 +1,1 @@
-# campus_app_jira
+# Loppuprojekti | Campus app Jira
