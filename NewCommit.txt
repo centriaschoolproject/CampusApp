@@ -1,0 +1,3 @@
+Tiedosto CampusApp "commit"
+
+Ohjelmoitu ja lisätty nappi joka avaa ilmoittautumislomakkeen.
